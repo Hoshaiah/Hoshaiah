@@ -12,6 +12,12 @@ Strong in **Ruby on Rails**, **React**, and **TypeScript**. Currently going deep
 
 ---
 
+## 🛠 Stack I Reach For
+
+`Ruby on Rails` · `TypeScript` · `Next.js` · `React` · `Swift` · `Python` · `AWS` · `Postgres` · `Claude Code` · `n8n`
+
+---
+
 ### Building **30 Apps in 30 Weeks**
 
 One shipped product every week. Some will flop. Some will grow. The point is to ship.
@@ -112,12 +118,6 @@ An Obsidian vault that structures system design knowledge as a graph of interlin
 ## 🧪 Also in the lab
 
 **AdaptCV** · **RosettaClone**
-
----
-
-## 🛠 Stack I Reach For
-
-`TypeScript` · `Next.js` · `React Native` · `Swift` · `Python` · `Supabase` · `Postgres` · `Tailwind` · `Claude API` · `n8n`
 
 ---
 
