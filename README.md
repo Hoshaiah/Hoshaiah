@@ -29,70 +29,61 @@ _Last shipped: Obsidian System Design — Week 10_
 ## ⭐ Featured Apps (from the 30)
 
 ### [Linkember](https://linkember.com) — Week 1
-**Every link you share, working overtime to grow your list.**
-> 📊 _Headline result: e.g. "500+ users", "$X MRR", "PH launch"_
+A link shortener that turns every URL you share into a lead-capture moment — visitors see a customizable signup page before redirecting to the destination.
 
 🌐 [linkember.com](https://linkember.com) · _source closed_
 
 ---
 
 ### [Bitelingual](https://bitelingual.com) — Week 2
-**Learn a new language between subway stops.**
-> 📊 _Headline result_
+An iOS language-learning app that breaks lessons into short daily snippets you can finish on a coffee break, with AI-generated practice tuned to your level.
 
 🌐 [bitelingual.com](https://bitelingual.com) · 📱 [App Store](https://apps.apple.com/app/bitelingual) · _source closed_
 
 ---
 
 ### [One Important Thing](https://oneimportantthing.com) — Week 3
-**One priority a day. The anti-todo-list.**
-> 📊 _Headline result_
+An iOS app that asks you to pick one single priority every morning and protects the time to actually finish it, instead of drowning you in a 30-item todo list.
 
 🌐 [oneimportantthing.com](https://oneimportantthing.com) · 📱 [App Store](https://apps.apple.com/app/oneimportantthing) · _source closed_
 
 ---
 
 ### [CodeRevu](https://github.com/Hoshaiah/coderevu) — Week 5
-**1,000 broken codebases. One AI tutor. Become the senior on your team.**
-> 📊 _Headline result_
+A web app where developers practice reviewing real broken codebases — 1,000 problems across 10 stacks — paired with an AI tutor that explains every issue the way a senior engineer would.
 
 🛠 `Next.js` · `Claude API` · `Postgres`
 
 ---
 
 ### [Demo-Commit](https://github.com/Hoshaiah/demo-commit) — Week 6
-**Keep your contribution graph green, even on the days you don't ship.**
-> 📊 _Headline result_
+A serverless cron job that makes a tiny scheduled commit to a repo of your choosing, so your GitHub contribution graph stays consistent through travel, sick days, or focus blocks.
 
 ---
 
 ### [Insta Carousel](https://github.com/Hoshaiah/insta_carousel) — Week 7
-**A month of Instagram carousels, generated in one afternoon.**
-> 📊 _Headline result_
+A self-hosted Rails + Docker tool for designing, scheduling, and bulk-publishing Instagram carousels, so a whole month of content can ship in a single sitting.
 
 🛠 `Ruby on Rails` · `Docker` · `Postgres`
 
 ---
 
 ### [n8n Docker](https://github.com/Hoshaiah/n8n-docker) — Week 8
-**Your own n8n, running locally in one command. Own every workflow.**
-> 📊 _Headline result_
+A one-command Docker Compose setup that spins up a fully self-hosted n8n instance with its own Postgres database, so you can own your workflow automations end-to-end.
 
 🛠 `Docker` · `n8n` · `Postgres`
 
 ---
 
 ### System — Week 9
-**Nine Claude agents shipping code while you sleep. One dashboard to watch them.**
-> 📊 _Headline result_
+A Next.js dashboard that orchestrates a pipeline of nine specialized Claude agents — from planning through QA — to ship features against any repo while you monitor every stage in one place.
 
 🛠 `Next.js` · `Claude Code SDK` · `pnpm` · `Turbo` · _source closed_
 
 ---
 
 ### [Obsidian System Design](https://github.com/Hoshaiah/obsidian-system-design) — Week 10
-**System design knowledge as a brain you can actually browse.**
-> 📊 _Headline result_
+An Obsidian vault that structures system design knowledge as a graph of interlinked dilemmas, patterns, and case studies, so you can study tradeoffs the way they actually connect.
 
 🛠 `Obsidian` · `Markdown`
 
