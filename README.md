@@ -24,7 +24,7 @@ One shipped product every week. Some will flop. Some will grow. The point is to 
 
 ---
 
-## 📊 Progress
+## Progress
 
 `██████████░░░░░░░░░░░░░░░░░░░░` **10 / 30**
 
@@ -32,7 +32,7 @@ _Last shipped: Obsidian System Design — Week 10_
 
 ---
 
-## ⭐ Featured Apps (from the 30)
+## Featured Apps (from the 30)
 
 ### [Linkember](https://linkember.com) — Week 1
 A link shortener that turns every URL you share into a lead-capture moment — visitors see a customizable signup page before redirecting to the destination.
